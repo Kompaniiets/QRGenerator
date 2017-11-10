@@ -1,0 +1,13 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gm": "^1.23.0",
+    "qrcode": "^1.0.0"
+  }
+}
